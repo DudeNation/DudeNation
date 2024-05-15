@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DudeNation
-- 👀 I’m interested in software engineering
+- 👀 I’m interested in software engineering and cyber security
 - 🌱 I’m currently learning Computer Science and Engineering
 - 💞️ I’m looking to collaborate on reputable company
 - 📫 How to reach me: 
