@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on reputable company
 - 📫 How to reach me: 
 Facebook - https://www.facebook.com/an.phamtrantruong.5/
-Gmail - 10421001@student.vgu.edu.vn
+Gmail - anp2112003@gmail.com
 
 <!---
 DudeNation/DudeNation is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
